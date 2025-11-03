@@ -1,4 +1,4 @@
-# ink-htop
+# Syatem Monitor CLI
 
 A terminal-based system monitor built with [Ink](https://github.com/vadimdemedes/ink) and TypeScript. Inspired by `htop`.
 
